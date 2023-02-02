@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
     },
     "thumbnail": {
         "width": "100vw",
-        "height": "100vw",
+        "height": "90vw",
         "marginTop": 5,
         "backgroundColor": "#A9A93C"
     },
