@@ -36,14 +36,16 @@ const styles = StyleSheet.create({
     "thumbnail": {
         "width": "100vw",
         "height": "100vw",
-        "marginTop": 5
+        "marginTop": 5,
+        "backgroundColor": "#A9A93C"
     },
     "video_title": {
-        "color": "hsl(274,100%,60%)",
+        "color": "#B35910",
         "fontSize": 15,
         "marginTop": 5,
         "fontWeight": "400",
         "marginHorizontal": 10,
-        "paddingHorizontal": 2
+        "paddingHorizontal": 2,
+        "fontFamily": "monospace"
     }
 });
